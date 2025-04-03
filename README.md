@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Laravel, Spring and React<br>👀 I’m interested in joining a company as a developer</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Laravel, Spring and Data Structure<br>👀 I’m interested in joining a company as a developer</p>
 
 ###
 
